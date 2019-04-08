@@ -11,4 +11,4 @@ An list of awesome xposed plugin which allow you to have a better way of customi
 * [X Screen Stabilizer](https://repo.xposed.info/module/com.vivek.xscreenstabilizer) Stabilize your device screen content in order to have a easy reading of text while you are on a bus.
 
 ### Utility
-* [WiFi Filter](https://repo.xposed.info/module/com.datanasov.wififilter) filter free from non free one
+* [WiFi Filter](https://repo.xposed.info/module/com.datanasov.wififilter) filter free from non free one.
